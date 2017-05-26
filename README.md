@@ -4,10 +4,6 @@
 
 This docker image contains [busybox](https://busybox.net/).
 
-## Entrypoint Scripts
-
-None.
-
 ## Standard Configuration
 
 ### Container Layout
